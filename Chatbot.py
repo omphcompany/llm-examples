@@ -11,7 +11,7 @@ with st.sidebar:
     "[View the source code](https://github.com/streamlit/llm-examples/blob/main/pages/2_Chat_with_search.py)"
     "[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/llm-examples?quickstart=1)"
 
-st.title("🔎 LangChain - Chat with search")
+st.title("🔎 LangChain - Open AI GPT-3.5")
 
 """
 In this example, we're using `StreamlitCallbackHandler` to display the thoughts and actions of an agent in an interactive Streamlit app.
